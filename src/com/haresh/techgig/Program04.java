@@ -6,6 +6,8 @@ package com.haresh.techgig;
 import java.util.Scanner;
 
 /*
+	Contest: Innominds Java / BigData Hiring Challenge
+
 	Rupee Problem (100 Marks)
 	In how many ways, can you pay N rupees with 1 rupee, 2 rupee & 5 rupee denominations, 
 	in such a way that the number of 1 rupee coins are always greater than that of 2 rupee coins 
