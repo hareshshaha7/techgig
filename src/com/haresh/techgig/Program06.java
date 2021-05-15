@@ -74,7 +74,7 @@ public class Program06 {
 			String people = sc.nextLine();
 
 			for (int j = 0; j < people.length(); j++) {
-				String person = String.valueOf(people.charAt(i));
+				String person = String.valueOf(people.charAt(j));
 				typeCount.put(person, typeCount.getOrDefault(person, 0) + 1);
 			}
 
@@ -85,7 +85,6 @@ public class Program06 {
 		}
 
 		sc.close();
-
 	}
 
 }
