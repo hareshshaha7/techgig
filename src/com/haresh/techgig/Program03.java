@@ -12,6 +12,8 @@ import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 
 /*
+	Contest: Innominds Java / BigData Hiring Challenge
+
 	Distinct Words (100 Marks)
 	Given a string(word), S, print the number of distinct words with or without meaning that can be formed with the letters of the given word.
 	
