@@ -3,8 +3,8 @@ TechGig Challenges
 <br/>
 participate in challenges from [Challenges](https://www.techgig.com/challenge) section
 <br/>
-<br/> <b> Program 01: </b> 
-<br/> <b> Program 02: </b> 
+<br/> <b> Program 01: </b> Code Gladiators 2021: Open Coding Round - Problem 1
+<br/> <b> Program 02: </b> Code Gladiators 2021: Open Coding Round - Problem 2
 <br/> <b> Program 03: </b> Innominds Java / BigData Hiring Challenge: Distinct Words
 <br/> <b> Program 04: </b> Innominds Java / BigData Hiring Challenge: Rupee Problem
 <br/> <b> Program 05: </b> Java To Salesforce Bootcamp Challenge: Who is smarter
